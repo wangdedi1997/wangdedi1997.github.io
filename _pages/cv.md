@@ -9,32 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+A short virtual CV, current through 3/2023.  Full CV in PDF version [available here.](../files/Dedi_CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Biophysics, University of Maryland, College Park, MD, USA 2024 (expected)
+* B.S. Physics, Peking University, Beijing, China 2015
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* _(Sep 2019 -- Present)_ Department of Chemistry \& Biochemistry, University of Maryland
+  * Research Assistant
+  * Supervisor: Pratyush Tiwary
+
+* _(Sep 2019 -- Jan 2020)_ Cancer Data Science Lab, NCI, NIH
+  * Research Rotation
+  * Supervisor: Sridhar Hannenhalli
+
+* _(Jan 2017 -- Jun 2019)_ Center of Quantitative Biology, Peking University
+  * Undergraduate Research Assistant
+  * Supervisor: Fangting Li
 
 Publications
 ======
@@ -42,18 +37,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
