@@ -19,7 +19,7 @@ Education
 
 Research experience
 ======
-* _(Sep 2019 -- Present)_ Department of Chemistry \& Biochemistry, University of Maryland
+* _(Sep 2019 -- Present)_ Department of Chemistry & Biochemistry, University of Maryland
   * Research Assistant
   * Supervisor: Pratyush Tiwary
 
@@ -33,7 +33,4 @@ Research experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+See [publications](/publications/) page.

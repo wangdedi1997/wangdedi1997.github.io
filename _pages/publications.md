@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Check out my [Google Scholar profile](https://scholar.google.com/citations?user=sXD-7J4AAAAJ) for a full list of my publications. A highlighted subset are listed below:
 
-{% include base_path %}
+**Dedi Wang**, Yihang Wang, Luke Evans, Pratyush Tiwary. "Introducing dynamical constraints into representation learning." _arXiv preprint arXiv:2209.00905_ (2022).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Bodhi P. Vani, Akashnathan Aranganathan, **Dedi Wang**, Pratyush Tiwary. "From sequence to Boltzmann weighted ensemble of structures with AlphaFold2-RAVE." _bioRxiv_ (2022).
+
+Shams Mehdi, **Dedi Wang**, Shashank Pant, Pratyush Tiwary. "Accelerating All-Atom Simulations and Gaining Mechanistic Understanding of Biophysical Systems through State Predictive Information Bottleneck." _J. Chem. Theory Comput._ (2022). doi: [10.1021/acs.jctc.2c00058](https://doi.org/10.1021/acs.jctc.2c00058)
+
+**Dedi Wang**, Renjie Zhao, John D. Weeks, Pratyush Tiwary. "Influence of Long-Range Forces on the Transition States and Dynamics of NaCl Ion-Pair Dissociation in Water." _J. Phys. Chem. B_ (2022). doi: [10.1021/acs.jpcb.1c09454](https://doi.org/10.1021/acs.jpcb.1c09454)
+
+**Dedi Wang**, Pratyush Tiwary. "State predictive information bottleneck." _J. Chem. Phys._ (2021). doi: [10.1063/5.0038198](https://doi.org/10.1063/5.0038198)
+
