@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Check out my [Google Scholar profile](https://scholar.google.com/citations?user=sXD-7J4AAAAJ) for a full list of my publications. A highlighted subset are listed below:
+Check out my [Google Scholar profile](https://scholar.google.com/citations?user=kh2hYhcAAAAJ&hl) for a full list of my publications. A highlighted subset are listed below:
 
 **Dedi Wang**, Yihang Wang, Luke Evans, Pratyush Tiwary. "Introducing dynamical constraints into representation learning." _arXiv preprint arXiv:2209.00905_ (2022).
 
