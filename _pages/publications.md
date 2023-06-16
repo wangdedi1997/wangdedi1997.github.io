@@ -9,7 +9,7 @@ Check out my [Google Scholar profile](https://scholar.google.com/citations?user=
 
 **Dedi Wang**, Yihang Wang, Luke Evans, Pratyush Tiwary. "Introducing dynamical constraints into representation learning." _arXiv preprint arXiv:2209.00905_ (2022). [<img src="/images/github-mark.png" width="20" height="20">](https://github.com/tiwarylab/DynamicsAE)
 
-Bodhi P. Vani, Akashnathan Aranganathan, **Dedi Wang**, Pratyush Tiwary. "From sequence to Boltzmann weighted ensemble of structures with AlphaFold2-RAVE." _bioRxiv_ (2022).
+Bodhi P. Vani, Akashnathan Aranganathan, **Dedi Wang**, Pratyush Tiwary. "AlphaFold2-RAVE: From Sequence to Boltzmann Ranking." _J. Chem. Theory Comput._ (2023).
 
 Shams Mehdi, **Dedi Wang**, Shashank Pant, Pratyush Tiwary. "Accelerating All-Atom Simulations and Gaining Mechanistic Understanding of Biophysical Systems through State Predictive Information Bottleneck." _J. Chem. Theory Comput._ (2022). doi: [10.1021/acs.jctc.2c00058](https://doi.org/10.1021/acs.jctc.2c00058)
 
