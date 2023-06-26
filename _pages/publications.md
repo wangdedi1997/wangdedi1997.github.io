@@ -7,7 +7,7 @@ author_profile: true
 
 Check out my [Google Scholar profile](https://scholar.google.com/citations?user=kh2hYhcAAAAJ&hl) for a full list of my publications. A highlighted subset are listed below:
 
-**Dedi Wang**, Yihang Wang, Luke Evans, Pratyush Tiwary. "Introducing dynamical constraints into representation learning." _arXiv preprint arXiv:2209.00905_ (2022). [<img src="/images/github-mark.png" width="20" height="20">](https://github.com/tiwarylab/DynamicsAE)
+**Dedi Wang**, Yihang Wang, Luke Evans, Pratyush Tiwary. "From latent dynamics to meaningful representations." _arXiv preprint arXiv:2209.00905_ (2022). [<img src="/images/github-mark.png" width="20" height="20">](https://github.com/tiwarylab/DynamicsAE)
 
 Bodhi P. Vani, Akashnathan Aranganathan, **Dedi Wang**, Pratyush Tiwary. "AlphaFold2-RAVE: From Sequence to Boltzmann Ranking." _J. Chem. Theory Comput._ (2023).
 
